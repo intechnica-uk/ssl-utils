@@ -1,6 +1,6 @@
 {
   "name": "ssl-utils",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Node.js utility for SSL certificates using OpenSSL (generating, verifying, etc.)",
   "author": {
     "name": "Elan Shanker",
